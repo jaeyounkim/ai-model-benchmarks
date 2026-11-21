@@ -1,5 +1,11 @@
 # AI Model Benchmarks
 
+## Magazine article summaries
+
+![Score against API cost for the magazine summary benchmark. The x-axis shows estimated API dollars per 1,000 articles.](score-against-api-cost.png)
+
+![Score against speed for the magazine summary benchmark. The x-axis shows measured seconds per article.](score-against-speed.png)
+
 ## Math lecture notes
 
 ### Claude and Codex models
